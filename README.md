@@ -13,16 +13,26 @@ Here is the output from the R studio
 [Workspace loaded from C:/Program Files/RStudio/.RData]
 
 > setwd("C:/DataScience/CleaningData/Week-3")
+
 > source('C:/DataScience/CleaningData/Week-3/run_analysis.R')
+
 [1] "loading projectData/UCI HAR Dataset/activity_labels.txt"
+
 [1] "loading projectData/UCI HAR Dataset/features.txt"
+
 [1] "loading projectData/UCI HAR Dataset/test/X_test.txt"
+
 [1] "loading projectData/UCI HAR Dataset/test/subject_test.txt"
+
 [1] "loading projectData/UCI HAR Dataset/test/y_test.txt"
+
 [1] "loading projectData/UCI HAR Dataset/train/X_train.txt"
+
 [1] "loading projectData/UCI HAR Dataset/train/subject_train.txt"
+
 [1] "loading projectData/UCI HAR Dataset/train/y_train.txt"
 > 
 
 5. run_analysis.txt is created in the working dir.
+
 
